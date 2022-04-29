@@ -2,4 +2,7 @@
 
 Скрины программы представлены ниже:
 
-![Иллюстрация к проекту](https://telegra.ph/file/e18fc5ac80bd3c2575d65.png)
+![Иллюстрация к проекту](https://telegra.ph/file/f676318dc92f3cc9a6cf9.png)
+![Иллюстрация к проекту](https://telegra.ph/file/add424c72a63fb1ac1938.png)
+![Иллюстрация к проекту](https://telegra.ph/file/bf3665043c3e15908bb47.png)
+![Иллюстрация к проекту](https://telegra.ph/file/0ceb1ab36ca83c547ac48.png)
