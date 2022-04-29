@@ -1,8 +1,0 @@
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\bin\Debug\ObjectComparison.exe.config
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\bin\Debug\ObjectComparison.exe
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\bin\Debug\ObjectComparison.pdb
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\obj\Debug\ObjectComparison.csproj.AssemblyReference.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\obj\Debug\ObjectComparison.csproj.SuggestedBindingRedirects.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\obj\Debug\ObjectComparison.csproj.CoreCompileInputs.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\obj\Debug\ObjectComparison.exe
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task3\ObjectComparison\obj\Debug\ObjectComparison.pdb
