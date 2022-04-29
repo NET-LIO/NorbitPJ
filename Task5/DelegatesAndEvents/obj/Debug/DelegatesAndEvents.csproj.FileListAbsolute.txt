@@ -1,0 +1,8 @@
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.SuggestedBindingRedirects.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task5\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.AssemblyReference.cache

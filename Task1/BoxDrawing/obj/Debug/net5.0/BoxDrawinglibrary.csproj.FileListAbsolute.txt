@@ -1,0 +1,12 @@
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\bin\Debug\net5.0\BoxDrawinglibrary.deps.json
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\bin\Debug\net5.0\BoxDrawinglibrary.dll
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\bin\Debug\net5.0\ref\BoxDrawinglibrary.dll
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\bin\Debug\net5.0\BoxDrawinglibrary.pdb
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.AssemblyInfoInputs.cache
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.AssemblyInfo.cs
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.csproj.CoreCompileInputs.cache
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.dll
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\ref\BoxDrawinglibrary.dll
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.pdb
+C:\Users\NET.LIO\source\repos\Norbit.Crm.Hodeshenas\BoxDrawing\obj\Debug\net5.0\BoxDrawinglibrary.csproj.AssemblyReference.cache
