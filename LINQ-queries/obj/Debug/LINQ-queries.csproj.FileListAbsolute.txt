@@ -1,0 +1,8 @@
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\bin\Debug\LINQ-queries.exe.config
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\bin\Debug\LINQ-queries.exe
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\bin\Debug\LINQ-queries.pdb
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\obj\Debug\LINQ-queries.csproj.AssemblyReference.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\obj\Debug\LINQ-queries.csproj.SuggestedBindingRedirects.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\obj\Debug\LINQ-queries.csproj.CoreCompileInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\obj\Debug\LINQ-queries.exe
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task7\LINQ-queries\obj\Debug\LINQ-queries.pdb
