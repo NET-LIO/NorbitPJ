@@ -1,0 +1,8 @@
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\bin\Debug\OOP.exe.config
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\bin\Debug\OOP.exe
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\bin\Debug\OOP.pdb
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\obj\Debug\OOP.exe
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task8\OOP\obj\Debug\OOP.pdb
