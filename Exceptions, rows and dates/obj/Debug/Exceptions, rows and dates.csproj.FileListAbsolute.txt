@@ -1,8 +1,0 @@
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\bin\Debug\Exceptions, rows and dates.exe.config
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\bin\Debug\Exceptions, rows and dates.exe
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\bin\Debug\Exceptions, rows and dates.pdb
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\obj\Debug\Exceptions, rows and dates.csproj.AssemblyReference.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\obj\Debug\Exceptions, rows and dates.csproj.SuggestedBindingRedirects.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\obj\Debug\Exceptions, rows and dates.csproj.CoreCompileInputs.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\obj\Debug\Exceptions, rows and dates.exe
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task9\Exceptions, rows and dates\obj\Debug\Exceptions, rows and dates.pdb
