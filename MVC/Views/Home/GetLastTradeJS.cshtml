@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "GetLastTradeJS";
+}
+
+<h2>Информация о последней сделке через JS</h2>
+
+<div>
+    <h3>
+        <p id="Created"></p>
+        <p id="Amount"></p>
+    </h3>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/GetLastTradeScript.js")
+}
