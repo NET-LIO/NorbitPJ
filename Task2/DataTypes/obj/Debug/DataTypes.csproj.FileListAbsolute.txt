@@ -1,7 +1,0 @@
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\bin\Debug\DataTypes.exe.config
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\bin\Debug\DataTypes.exe
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\bin\Debug\DataTypes.pdb
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\obj\Debug\DataTypes.csproj.SuggestedBindingRedirects.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\obj\Debug\DataTypes.exe
-C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\Task2\DataTypes\obj\Debug\DataTypes.pdb
