@@ -1,0 +1,9 @@
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\bin\Debug\net472\TradeLibrary.dll
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\bin\Debug\net472\TradeLibrary.pdb
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.csproj.AssemblyReference.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.AssemblyInfoInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.AssemblyInfo.cs
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.csproj.CoreCompileInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.dll
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net472\TradeLibrary.pdb

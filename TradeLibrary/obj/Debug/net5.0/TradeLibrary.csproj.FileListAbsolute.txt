@@ -1,0 +1,12 @@
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\bin\Debug\net5.0\TradeLibrary.deps.json
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\bin\Debug\net5.0\TradeLibrary.dll
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\bin\Debug\net5.0\ref\TradeLibrary.dll
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\bin\Debug\net5.0\TradeLibrary.pdb
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.csproj.AssemblyReference.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.AssemblyInfoInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.AssemblyInfo.cs
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.csproj.CoreCompileInputs.cache
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.dll
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\ref\TradeLibrary.dll
+C:\SRC\Norbit.Crm.Hodeshenas\MainFolder\FinalTaskCS\TradeLibrary\obj\Debug\net5.0\TradeLibrary.pdb
